@@ -1,0 +1,12 @@
+D:\Repositories\ResolutionUnlock\bin\Debug\net35\ResolutionUnlock.dll
+D:\Repositories\ResolutionUnlock\bin\Debug\net35\ResolutionUnlock.pdb
+D:\Repositories\ResolutionUnlock\obj\Debug\net35\ResolutionUnlock.csproj.AssemblyReference.cache
+D:\Repositories\ResolutionUnlock\obj\Debug\net35\PluginInfo.cs
+D:\Repositories\ResolutionUnlock\obj\Debug\net35\ResolutionUnlock.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\ResolutionUnlock\obj\Debug\net35\ResolutionUnlock.AssemblyInfoInputs.cache
+D:\Repositories\ResolutionUnlock\obj\Debug\net35\ResolutionUnlock.AssemblyInfo.cs
+D:\Repositories\ResolutionUnlock\obj\Debug\net35\ResolutionUnlock.csproj.CoreCompileInputs.cache
+D:\Repositories\ResolutionUnlock\obj\Debug\net35\ResolutionUnlock.dll
+D:\Repositories\ResolutionUnlock\obj\Debug\net35\ResolutionUnlock.pdb
+D:\Repositories\ResolutionUnlock\bin\Debug\net35\Assembly-CSharp.dll
+D:\Repositories\ResolutionUnlock\obj\Debug\net35\ResolutionUnlock.csproj.CopyComplete
